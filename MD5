@@ -1,4 +1,4 @@
-8165905391dcd4df02437b2aab3d5e40 *DESCRIPTION
+c3848d7ba9116c8e94cbc64d2589465c *DESCRIPTION
 c4cdc31a571aa8a675b7f264300aa75a *LICENSE
 af7eacb73df9488cec7e8cc361372806 *NAMESPACE
 2cdaa413b464845106bd712579a7ec9c *NEWS.md
@@ -23,11 +23,11 @@ a353ef35e9e2eee72d8e5d552fd33899 *src/Makevars
 e11c4035086901dc7113abae8bdfe33f *src/Makevars.win
 fdffd0d83b0abeebf9f624ffabd99503 *src/b64-win.def
 fa28f820dfc76d26163c3167860a4950 *src/entrypoint.c
-f5433da8c7c5cffcac28bf3db606f50b *src/rust/Cargo.lock
-a8dc3d402889ad7ae7aebed5cc6440cf *src/rust/Cargo.toml
+431545e3ea8f88c1070dea41915595d0 *src/rust/Cargo.lock
+ec224ed81784440a2a9f49bd3be86313 *src/rust/Cargo.toml
 ec425e04b327a0a54689bf195e4302d7 *src/rust/src/lib.rs
-d4c7febd30951f7fbd584476dbb2dd70 *src/rust/vendor-config.toml
-f3bb4116fb1068db08be289096c2ca15 *src/rust/vendor.tar.xz
+6fe67f0ab587f142f79f2dab18c525a5 *src/rust/vendor-config.toml
+6ef49dbbc0d54d952fabcf597f7e383d *src/rust/vendor.tar.xz
 b8068887d182fb562d99aa9985049288 *tests/testthat.R
 d500957c57cb9036d8b4005bdd77b9c6 *tests/testthat/test-roundtrip-alphabet.R
 2210db737fb27c5906abecd3326deb80 *tests/testthat/test-roundtrip.R
