@@ -1,4 +1,4 @@
-c3848d7ba9116c8e94cbc64d2589465c *DESCRIPTION
+13784ee08dba673f09442d81a70ecb5f *DESCRIPTION
 c4cdc31a571aa8a675b7f264300aa75a *LICENSE
 af7eacb73df9488cec7e8cc361372806 *NAMESPACE
 2cdaa413b464845106bd712579a7ec9c *NEWS.md
@@ -9,8 +9,8 @@ df6cc46bc7fae1a55b713f3d5065b35a *R/b64-package.R
 bd01e5cfc1c7b60ae7a23e8d254a8d77 *R/engine.R
 72cc6aae8c91abc227002dbfc573fdd1 *R/extendr-wrappers.R
 43a6c0ba45340a0b5a667b87303db7c7 *README.md
-7ab84fb76c0c016a33e21555fae24af7 *configure
-6f1afa52394eba61cfef215155aed8c2 *configure.win
+619b9299eeba762d13a051b7ae44d918 *configure
+ff1cb507d9332a6f934e021f6af046b4 *configure.win
 12fc79078a6fe61b4cfb4e26ee0f6f33 *man/alphabet.Rd
 8e2a3bf812cd38b7c8739af37c88e3a9 *man/b64-package.Rd
 554a16eac0d3fa29427b2523ca0f6eaa *man/encode.Rd
@@ -20,14 +20,15 @@ a8a82f51e83254391b3da1c73bf5d1ec *man/figures/logo.svg
 eae380b02b36f0e7b0dce6e383c42762 *man/utils.Rd
 a353ef35e9e2eee72d8e5d552fd33899 *src/Makevars
 27957123fba16c05c53a66e68b0f3482 *src/Makevars.ucrt
-e11c4035086901dc7113abae8bdfe33f *src/Makevars.win
+4d5bf64d98bd1c898e3544a427b6bfec *src/Makevars.win
 fdffd0d83b0abeebf9f624ffabd99503 *src/b64-win.def
 fa28f820dfc76d26163c3167860a4950 *src/entrypoint.c
-431545e3ea8f88c1070dea41915595d0 *src/rust/Cargo.lock
-ec224ed81784440a2a9f49bd3be86313 *src/rust/Cargo.toml
+313cf169a40cb6765365d87354f593bc *src/rust/Cargo.lock
+a626f057bc59996933b4f78f4b1ad270 *src/rust/Cargo.toml
 ec425e04b327a0a54689bf195e4302d7 *src/rust/src/lib.rs
-6fe67f0ab587f142f79f2dab18c525a5 *src/rust/vendor-config.toml
-6ef49dbbc0d54d952fabcf597f7e383d *src/rust/vendor.tar.xz
+d4c7febd30951f7fbd584476dbb2dd70 *src/rust/vendor-config.toml
+d030c08b9651c8d6b16eddf29f37568f *src/rust/vendor.tar.xz
 b8068887d182fb562d99aa9985049288 *tests/testthat.R
 d500957c57cb9036d8b4005bdd77b9c6 *tests/testthat/test-roundtrip-alphabet.R
 2210db737fb27c5906abecd3326deb80 *tests/testthat/test-roundtrip.R
+4b7d2f97c407377684aa35d16aa025c0 *tools/msrv.R
