@@ -1,6 +1,6 @@
 Package: b64
 Title: Fast and Vectorized Base 64 Engine
-Version: 0.1.4
+Version: 0.1.5
 Authors@R: c(
     person("Josiah", "Parry", , "josiah.parry@gmail.com", role = c("aut", "cre"),
            comment = c(ORCID = "0000-0001-9910-865X")),
@@ -24,9 +24,9 @@ URL: https://extendr.github.io/b64/, https://github.com/extendr/b64
 BugReports: https://github.com/extendr/b64/issues
 Depends: R (>= 4.2)
 NeedsCompilation: yes
-Packaged: 2025-03-31 15:40:11 UTC; josiahparry
+Packaged: 2025-04-05 18:24:40 UTC; josiahparry
 Author: Josiah Parry [aut, cre] (<https://orcid.org/0000-0001-9910-865X>),
   Etienne Bacher [ctb] (<https://orcid.org/0000-0002-9271-5075>)
 Maintainer: Josiah Parry <josiah.parry@gmail.com>
 Repository: CRAN
-Date/Publication: 2025-03-31 16:10:06 UTC
+Date/Publication: 2025-04-06 08:00:06 UTC
