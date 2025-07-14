@@ -1,23 +1,20 @@
 [package]
-name = 'b64'
+name = "b64"
 publish = false
-version = '0.1.0'
-edition = '2021'
+version = "0.1.0"
+edition = "2021"
 rust-version = "1.65.0"
 
 [lib]
-crate-type = ['staticlib']
-name = 'b64'
+crate-type = ["staticlib"]
+name = "b64"
 
 [dependencies]
 base64 = "0.21.7"
-extendr-api = { version = "0.8.0", features = ["either"] }
+extendr-api = { version = "0.8.1", features = ["either"] }
 itertools = "0.12.0"
 
 
 [profile.release]
 lto = true
 codegen-units = 1
-
-[patch.crates-io]
-extendr-api = { git = "https://github.com/extendr/extendr"}

@@ -1,7 +1,7 @@
-a0f065aa27dd73d011fa1eefc22dc38a *DESCRIPTION
+ab5abfe852fa06b7d140ee442079908b *DESCRIPTION
 c4cdc31a571aa8a675b7f264300aa75a *LICENSE
 4ebbaba366b46576ca601c620e4475a8 *NAMESPACE
-270dc45acd836750181e1f4045ee8dd1 *NEWS.md
+6670f824e43c5afdb6f339e236ba0cc4 *NEWS.md
 10e3d963316f3e1463f676a859b79ef3 *R/alphabet.R
 df6cc46bc7fae1a55b713f3d5065b35a *R/b64-package.R
 95dc4f0f3285778af713eb22a1ae0dd9 *R/config.R
@@ -22,11 +22,11 @@ eae380b02b36f0e7b0dce6e383c42762 *man/utils.Rd
 ef23af2045b8adcf0084a67cae0404b9 *src/Makevars.win.in
 fdffd0d83b0abeebf9f624ffabd99503 *src/b64-win.def
 fa28f820dfc76d26163c3167860a4950 *src/entrypoint.c
-b244c8dd80c735c62e66cf878e88d505 *src/rust/Cargo.lock
-707a9e461f01c9a96428042f4ee1eb75 *src/rust/Cargo.toml
-d70caded781dc40d1810baec49f5b354 *src/rust/src/lib.rs
-b676f323b325d6a9b0c0ec19b7682b18 *src/rust/vendor-config.toml
-0ad5c388422d29ddd511abe1140810e8 *src/rust/vendor.tar.xz
+c5b922a725563e4b8ce3725878fda9d9 *src/rust/Cargo.lock
+aaed0d4aad321389b115c01060473870 *src/rust/Cargo.toml
+17ebbee810f92b2b914918522ebd791d *src/rust/src/lib.rs
+d4c7febd30951f7fbd584476dbb2dd70 *src/rust/vendor-config.toml
+ca299bc7beb5039efe116144a0a8c2cc *src/rust/vendor.tar.xz
 b8068887d182fb562d99aa9985049288 *tests/testthat.R
 d500957c57cb9036d8b4005bdd77b9c6 *tests/testthat/test-roundtrip-alphabet.R
 2210db737fb27c5906abecd3326deb80 *tests/testthat/test-roundtrip.R

@@ -1,3 +1,8 @@
+# b64 0.1.7
+
+* Removes use of `.inspect_err()` which wasn't in stable until 1.76
+* Adds `xz` as a system requirement
+
 # b64 0.1.6
 
 * Enables building in offline environments
